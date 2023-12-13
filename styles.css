@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    margin: 0;
+    background-color: #9dbccd;
+    font-family: 'Comfortaa', sans-serif;
+    color: #29524A;
+    text-shadow: 0 0 2px black;;
+}
+
+button {
+    background-color: #020887;
+    color: #76E5FC;
+    font-family:inherit;
+    width: 150px;
+    height: 25px;
+}
